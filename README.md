@@ -1,6 +1,7 @@
 # Monty-Hall-Simulator
 
-This code is a simulation of famously known, a counter-intuitive puzzle, The Monty Hall Problem: to prove that switching increases our chances of winning.
+Inspired by AP Statistics, Conditional Probability & Probability misconception,
+this code is a simulation of famously known, a counter-intuitive puzzle, The Monty Hall Problem: to prove that switching increases our chances of winning.
 
 Monty Hall Problem: (What is it about?)
 1. There are Three Doors: Behind them are two goats and one sports car.
