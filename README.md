@@ -1,9 +1,10 @@
-# Monty-Hall-Simulator
+# Monty-Hall-Simulator 🧩
 
 Inspired by AP Statistics, Conditional Probability & Probability misconception,<br>
-this code is a simulation of famously known, a counter-intuitive puzzle, The Monty Hall Problem: to prove that switching increases our chances of winning.
+This code is a simulation of the famous Monty Hall Problem, a counterintuitive puzzle, to prove that switching increases our chances of winning.<br>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
-Monty Hall Problem: (What is it about?)
+## Monty Hall Problem: (What is it about?)
 1. There are Three Doors: Behind them are two goats and one sports car.
 2. Make Your Choice for a door: You pick a door (1,2,3).
 3. Host Opens a Door
@@ -16,11 +17,12 @@ Main Question: Should you stick with your door or switch? Or does it matter?
 People may assume that chances are 50-50, but it turns out switching would increase more chance!
 You'll win 2/3 after switch!
 
+## History
 Origin: 
 Initially introduced in 1975 in a letter by Steve Selvin to the American Statistician Journal.
 This puzzle became even more popular after Monty Halperin, host of Let's Make a Deal, introduced this in this TV show.
 
-Reasoning:
+## Reasoning:
 Switching increases our chance of winning because in the first pick, there are 
 2/3: Choose goat as a first pick
 1/3: Choose car as a first pick
@@ -37,16 +39,16 @@ This can be also expressed in the following conditional probability equation cal
 e.g.) What's the probability the car is behind Door 1, given Monty opened Door 2?
 Probability of car being in door 1 & Monty open Door 2 over total probability of monty opening door 2 is equal to ⅓, which we found earlier. 
 
-Conclusion:
+## Conclusion:
 1. Switching increases chances after he reveales one door.
 2. The Monty Hall problem reminds us that human intuition can be misleading, and that humans can be easily fooled, but math doesn’t.
 
-Real-World Applications:
+## Real-World Applications:
 1. Quiz shows or test-taking: Spotting and switching from wrong answers.
 2. Machine learning: Updating predictions with new evidence.
 3. Video games: Risk-reward decisions based on limited info.
 
-New question?: 
+## New question?: 
 What happens when:
 1. There are more than 3 doors (e.g., 4 or 100)?
 2. You’re allowed to switch multiple times?
