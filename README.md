@@ -1,6 +1,6 @@
 # Monty-Hall-Simulator
 
-Inspired by AP Statistics, Conditional Probability & Probability misconception,
+Inspired by AP Statistics, Conditional Probability & Probability misconception,<br>
 this code is a simulation of famously known, a counter-intuitive puzzle, The Monty Hall Problem: to prove that switching increases our chances of winning.
 
 Monty Hall Problem: (What is it about?)
